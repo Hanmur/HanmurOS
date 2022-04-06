@@ -1,0 +1,1 @@
+/root/HanmurOS/user/target/riscv64gc-unknown-none-elf/release/00hello_world: /root/HanmurOS/user/src/bin/00hello_world.rs /root/HanmurOS/user/src/console.rs /root/HanmurOS/user/src/lang_items.rs /root/HanmurOS/user/src/lib.rs /root/HanmurOS/user/src/syscall.rs

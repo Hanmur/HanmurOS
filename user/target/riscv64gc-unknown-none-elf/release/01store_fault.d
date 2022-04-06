@@ -1,0 +1,1 @@
+/root/HanmurOS/user/target/riscv64gc-unknown-none-elf/release/01store_fault: /root/HanmurOS/user/src/bin/01store_fault.rs /root/HanmurOS/user/src/console.rs /root/HanmurOS/user/src/lang_items.rs /root/HanmurOS/user/src/lib.rs /root/HanmurOS/user/src/syscall.rs
